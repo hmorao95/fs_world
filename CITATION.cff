@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this index or dataset, please cite the companion paper below."
+title: "A Fertilizer Shortage (FS) Index"
+abstract: >-
+  A search-based Fertilizer Shortage (FS) index measuring reported disruptions to
+  global fertilizer supply. Building on Baker, Bloom, and Davis (2016), the index
+  tracks the frequency of news articles jointly referencing the fertilizer
+  industry and supply-shortage language, from January 1977 onward.
+type: dataset
+authors:
+  - family-names: "Morão"
+    given-names: "Hugo"
+license: CC-BY-4.0
+keywords:
+  - fertilizer
+  - supply shortage
+  - commodity supply chains
+  - text mining
+  - agriculture
+preferred-citation:
+  type: article
+  title: "The economic consequences of fertilizer supply shocks"
+  authors:
+    - family-names: "Morão"
+      given-names: "Hugo"
+  journal: "Food Policy"
+  volume: 133
+  year: 2025
+  month: 5
+  article-number: "102835"
+  issn: "0306-9192"
+  doi: "10.1016/j.foodpol.2025.102835"
+  url: "https://doi.org/10.1016/j.foodpol.2025.102835"
